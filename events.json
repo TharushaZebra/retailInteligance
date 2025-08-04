@@ -1,0 +1,602 @@
+[
+  {
+    "timestamp": "2025-07-27T12:00:00Z",
+    "scanner_id": "ZB57519",
+    "event_type": "decode",
+    "barcode_data": "CODE7689"
+  },
+  {
+    "timestamp": "2025-07-27T12:00:05Z",
+    "scanner_id": "ZB42234",
+    "event_type": "decode",
+    "barcode_data": "CODE1880"
+  },
+  {
+    "timestamp": "2025-07-27T12:00:10Z",
+    "scanner_id": "ZB41590",
+    "event_type": "no-decode",
+    "barcode_data": "CODE8276"
+  },
+  {
+    "timestamp": "2025-07-27T12:00:15Z",
+    "scanner_id": "ZB79357",
+    "event_type": "decode",
+    "barcode_data": "CODE3898"
+  },
+  {
+    "timestamp": "2025-07-27T12:00:20Z",
+    "scanner_id": "ZB90416",
+    "event_type": "no-decode",
+    "barcode_data": "CODE5906"
+  },
+  {
+    "timestamp": "2025-07-27T12:00:25Z",
+    "scanner_id": "ZB46626",
+    "event_type": "no-decode",
+    "barcode_data": "CODE1718"
+  },
+  {
+    "timestamp": "2025-07-27T12:00:30Z",
+    "scanner_id": "ZB82682",
+    "event_type": "no-decode",
+    "barcode_data": "CODE9713"
+  },
+  {
+    "timestamp": "2025-07-27T12:00:35Z",
+    "scanner_id": "ZB96940",
+    "event_type": "no-decode",
+    "barcode_data": "CODE7844"
+  },
+  {
+    "timestamp": "2025-07-27T12:00:40Z",
+    "scanner_id": "ZB45256",
+    "event_type": "decode",
+    "barcode_data": "CODE2105"
+  },
+  {
+    "timestamp": "2025-07-27T12:00:45Z",
+    "scanner_id": "ZB17612",
+    "event_type": "decode",
+    "barcode_data": "CODE1628"
+  },
+  {
+    "timestamp": "2025-07-27T12:00:50Z",
+    "scanner_id": "ZB56880",
+    "event_type": "no-decode",
+    "barcode_data": "CODE1475"
+  },
+  {
+    "timestamp": "2025-07-27T12:00:55Z",
+    "scanner_id": "ZB12024",
+    "event_type": "no-decode",
+    "barcode_data": "CODE1423"
+  },
+  {
+    "timestamp": "2025-07-27T12:01:00Z",
+    "scanner_id": "ZB90804",
+    "event_type": "no-decode",
+    "barcode_data": "CODE8729"
+  },
+  {
+    "timestamp": "2025-07-27T12:01:05Z",
+    "scanner_id": "ZB77048",
+    "event_type": "decode",
+    "barcode_data": "CODE7765"
+  },
+  {
+    "timestamp": "2025-07-27T12:01:10Z",
+    "scanner_id": "ZB32570",
+    "event_type": "decode",
+    "barcode_data": "CODE2958"
+  },
+  {
+    "timestamp": "2025-07-27T12:01:15Z",
+    "scanner_id": "ZB69844",
+    "event_type": "decode",
+    "barcode_data": "CODE9403"
+  },
+  {
+    "timestamp": "2025-07-27T12:01:20Z",
+    "scanner_id": "ZB12453",
+    "event_type": "no-decode",
+    "barcode_data": "CODE9694"
+  },
+  {
+    "timestamp": "2025-07-27T12:01:25Z",
+    "scanner_id": "ZB62412",
+    "event_type": "decode",
+    "barcode_data": "CODE1755"
+  },
+  {
+    "timestamp": "2025-07-27T12:01:30Z",
+    "scanner_id": "ZB17576",
+    "event_type": "decode",
+    "barcode_data": "CODE6099"
+  },
+  {
+    "timestamp": "2025-07-27T12:01:35Z",
+    "scanner_id": "ZB53295",
+    "event_type": "no-decode",
+    "barcode_data": "CODE3742"
+  },
+  {
+    "timestamp": "2025-07-27T12:01:40Z",
+    "scanner_id": "ZB56947",
+    "event_type": "no-decode",
+    "barcode_data": "CODE4051"
+  },
+  {
+    "timestamp": "2025-07-27T12:01:45Z",
+    "scanner_id": "ZB75537",
+    "event_type": "no-decode",
+    "barcode_data": "CODE8281"
+  },
+  {
+    "timestamp": "2025-07-27T12:01:50Z",
+    "scanner_id": "ZB88667",
+    "event_type": "no-decode",
+    "barcode_data": "CODE7398"
+  },
+  {
+    "timestamp": "2025-07-27T12:01:55Z",
+    "scanner_id": "ZB14950",
+    "event_type": "no-decode",
+    "barcode_data": "CODE9100"
+  },
+  {
+    "timestamp": "2025-07-27T12:02:00Z",
+    "scanner_id": "ZB56524",
+    "event_type": "no-decode",
+    "barcode_data": "CODE1005"
+  },
+  {
+    "timestamp": "2025-07-27T12:02:05Z",
+    "scanner_id": "ZB91132",
+    "event_type": "no-decode",
+    "barcode_data": "CODE4363"
+  },
+  {
+    "timestamp": "2025-07-27T12:02:10Z",
+    "scanner_id": "ZB78040",
+    "event_type": "decode",
+    "barcode_data": "CODE8266"
+  },
+  {
+    "timestamp": "2025-07-27T12:02:15Z",
+    "scanner_id": "ZB27164",
+    "event_type": "no-decode",
+    "barcode_data": "CODE5448"
+  },
+  {
+    "timestamp": "2025-07-27T12:02:20Z",
+    "scanner_id": "ZB12488",
+    "event_type": "decode",
+    "barcode_data": "CODE7754"
+  },
+  {
+    "timestamp": "2025-07-27T12:02:25Z",
+    "scanner_id": "ZB30531",
+    "event_type": "decode",
+    "barcode_data": "CODE4046"
+  },
+  {
+    "timestamp": "2025-07-27T12:02:30Z",
+    "scanner_id": "ZB98017",
+    "event_type": "no-decode",
+    "barcode_data": "CODE6246"
+  },
+  {
+    "timestamp": "2025-07-27T12:02:35Z",
+    "scanner_id": "ZB18410",
+    "event_type": "decode",
+    "barcode_data": "CODE2560"
+  },
+  {
+    "timestamp": "2025-07-27T12:02:40Z",
+    "scanner_id": "ZB43079",
+    "event_type": "no-decode",
+    "barcode_data": "CODE7967"
+  },
+  {
+    "timestamp": "2025-07-27T12:02:45Z",
+    "scanner_id": "ZB53288",
+    "event_type": "no-decode",
+    "barcode_data": "CODE3249"
+  },
+  {
+    "timestamp": "2025-07-27T12:02:50Z",
+    "scanner_id": "ZB40002",
+    "event_type": "decode",
+    "barcode_data": "CODE4165"
+  },
+  {
+    "timestamp": "2025-07-27T12:02:55Z",
+    "scanner_id": "ZB84073",
+    "event_type": "no-decode",
+    "barcode_data": "CODE7138"
+  },
+  {
+    "timestamp": "2025-07-27T12:03:00Z",
+    "scanner_id": "ZB81219",
+    "event_type": "no-decode",
+    "barcode_data": "CODE6546"
+  },
+  {
+    "timestamp": "2025-07-27T12:03:05Z",
+    "scanner_id": "ZB11099",
+    "event_type": "decode",
+    "barcode_data": "CODE1937"
+  },
+  {
+    "timestamp": "2025-07-27T12:03:10Z",
+    "scanner_id": "ZB97820",
+    "event_type": "decode",
+    "barcode_data": "CODE2007"
+  },
+  {
+    "timestamp": "2025-07-27T12:03:15Z",
+    "scanner_id": "ZB90937",
+    "event_type": "no-decode",
+    "barcode_data": "CODE4136"
+  },
+  {
+    "timestamp": "2025-07-27T12:03:20Z",
+    "scanner_id": "ZB57171",
+    "event_type": "decode",
+    "barcode_data": "CODE8441"
+  },
+  {
+    "timestamp": "2025-07-27T12:03:25Z",
+    "scanner_id": "ZB48491",
+    "event_type": "no-decode",
+    "barcode_data": "CODE8576"
+  },
+  {
+    "timestamp": "2025-07-27T12:03:30Z",
+    "scanner_id": "ZB82802",
+    "event_type": "decode",
+    "barcode_data": "CODE6283"
+  },
+  {
+    "timestamp": "2025-07-27T12:03:35Z",
+    "scanner_id": "ZB26560",
+    "event_type": "decode",
+    "barcode_data": "CODE9649"
+  },
+  {
+    "timestamp": "2025-07-27T12:03:40Z",
+    "scanner_id": "ZB62595",
+    "event_type": "no-decode",
+    "barcode_data": "CODE3175"
+  },
+  {
+    "timestamp": "2025-07-27T12:03:45Z",
+    "scanner_id": "ZB84251",
+    "event_type": "no-decode",
+    "barcode_data": "CODE4842"
+  },
+  {
+    "timestamp": "2025-07-27T12:03:50Z",
+    "scanner_id": "ZB91153",
+    "event_type": "decode",
+    "barcode_data": "CODE3021"
+  },
+  {
+    "timestamp": "2025-07-27T12:03:55Z",
+    "scanner_id": "ZB14503",
+    "event_type": "decode",
+    "barcode_data": "CODE2125"
+  },
+  {
+    "timestamp": "2025-07-27T12:04:00Z",
+    "scanner_id": "ZB99527",
+    "event_type": "decode",
+    "barcode_data": "CODE8853"
+  },
+  {
+    "timestamp": "2025-07-27T12:04:05Z",
+    "scanner_id": "ZB21260",
+    "event_type": "no-decode",
+    "barcode_data": "CODE9023"
+  },
+  {
+    "timestamp": "2025-07-27T12:04:10Z",
+    "scanner_id": "ZB45335",
+    "event_type": "no-decode",
+    "barcode_data": "CODE6238"
+  },
+  {
+    "timestamp": "2025-07-27T12:04:15Z",
+    "scanner_id": "ZB15721",
+    "event_type": "no-decode",
+    "barcode_data": "CODE4159"
+  },
+  {
+    "timestamp": "2025-07-27T12:04:20Z",
+    "scanner_id": "ZB79310",
+    "event_type": "decode",
+    "barcode_data": "CODE5408"
+  },
+  {
+    "timestamp": "2025-07-27T12:04:25Z",
+    "scanner_id": "ZB31574",
+    "event_type": "no-decode",
+    "barcode_data": "CODE4184"
+  },
+  {
+    "timestamp": "2025-07-27T12:04:30Z",
+    "scanner_id": "ZB11552",
+    "event_type": "decode",
+    "barcode_data": "CODE1796"
+  },
+  {
+    "timestamp": "2025-07-27T12:04:35Z",
+    "scanner_id": "ZB52372",
+    "event_type": "no-decode",
+    "barcode_data": "CODE5103"
+  },
+  {
+    "timestamp": "2025-07-27T12:04:40Z",
+    "scanner_id": "ZB87269",
+    "event_type": "decode",
+    "barcode_data": "CODE4469"
+  },
+  {
+    "timestamp": "2025-07-27T12:04:45Z",
+    "scanner_id": "ZB55792",
+    "event_type": "decode",
+    "barcode_data": "CODE6623"
+  },
+  {
+    "timestamp": "2025-07-27T12:04:50Z",
+    "scanner_id": "ZB61891",
+    "event_type": "no-decode",
+    "barcode_data": "CODE1274"
+  },
+  {
+    "timestamp": "2025-07-27T12:04:55Z",
+    "scanner_id": "ZB18501",
+    "event_type": "no-decode",
+    "barcode_data": "CODE2348"
+  },
+  {
+    "timestamp": "2025-07-27T12:05:00Z",
+    "scanner_id": "ZB64206",
+    "event_type": "decode",
+    "barcode_data": "CODE3963"
+  },
+  {
+    "timestamp": "2025-07-27T12:05:05Z",
+    "scanner_id": "ZB44212",
+    "event_type": "decode",
+    "barcode_data": "CODE5065"
+  },
+  {
+    "timestamp": "2025-07-27T12:05:10Z",
+    "scanner_id": "ZB89634",
+    "event_type": "decode",
+    "barcode_data": "CODE5043"
+  },
+  {
+    "timestamp": "2025-07-27T12:05:15Z",
+    "scanner_id": "ZB45515",
+    "event_type": "decode",
+    "barcode_data": "CODE4398"
+  },
+  {
+    "timestamp": "2025-07-27T12:05:20Z",
+    "scanner_id": "ZB19570",
+    "event_type": "no-decode",
+    "barcode_data": "CODE1101"
+  },
+  {
+    "timestamp": "2025-07-27T12:05:25Z",
+    "scanner_id": "ZB96516",
+    "event_type": "no-decode",
+    "barcode_data": "CODE7583"
+  },
+  {
+    "timestamp": "2025-07-27T12:05:30Z",
+    "scanner_id": "ZB19633",
+    "event_type": "decode",
+    "barcode_data": "CODE4929"
+  },
+  {
+    "timestamp": "2025-07-27T12:05:35Z",
+    "scanner_id": "ZB16882",
+    "event_type": "decode",
+    "barcode_data": "CODE2116"
+  },
+  {
+    "timestamp": "2025-07-27T12:05:40Z",
+    "scanner_id": "ZB92857",
+    "event_type": "no-decode",
+    "barcode_data": "CODE3536"
+  },
+  {
+    "timestamp": "2025-07-27T12:05:45Z",
+    "scanner_id": "ZB41013",
+    "event_type": "no-decode",
+    "barcode_data": "CODE4860"
+  },
+  {
+    "timestamp": "2025-07-27T12:05:50Z",
+    "scanner_id": "ZB39939",
+    "event_type": "decode",
+    "barcode_data": "CODE4942"
+  },
+  {
+    "timestamp": "2025-07-27T12:05:55Z",
+    "scanner_id": "ZB21902",
+    "event_type": "decode",
+    "barcode_data": "CODE5730"
+  },
+  {
+    "timestamp": "2025-07-27T12:06:00Z",
+    "scanner_id": "ZB43576",
+    "event_type": "decode",
+    "barcode_data": "CODE9668"
+  },
+  {
+    "timestamp": "2025-07-27T12:06:05Z",
+    "scanner_id": "ZB51148",
+    "event_type": "no-decode",
+    "barcode_data": "CODE3198"
+  },
+  {
+    "timestamp": "2025-07-27T12:06:10Z",
+    "scanner_id": "ZB70717",
+    "event_type": "decode",
+    "barcode_data": "CODE1159"
+  },
+  {
+    "timestamp": "2025-07-27T12:06:15Z",
+    "scanner_id": "ZB39385",
+    "event_type": "no-decode",
+    "barcode_data": "CODE5980"
+  },
+  {
+    "timestamp": "2025-07-27T12:06:20Z",
+    "scanner_id": "ZB57407",
+    "event_type": "decode",
+    "barcode_data": "CODE5834"
+  },
+  {
+    "timestamp": "2025-07-27T12:06:25Z",
+    "scanner_id": "ZB70339",
+    "event_type": "decode",
+    "barcode_data": "CODE1827"
+  },
+  {
+    "timestamp": "2025-07-27T12:06:30Z",
+    "scanner_id": "ZB70896",
+    "event_type": "decode",
+    "barcode_data": "CODE4888"
+  },
+  {
+    "timestamp": "2025-07-27T12:06:35Z",
+    "scanner_id": "ZB14607",
+    "event_type": "decode",
+    "barcode_data": "CODE1021"
+  },
+  {
+    "timestamp": "2025-07-27T12:06:40Z",
+    "scanner_id": "ZB20068",
+    "event_type": "decode",
+    "barcode_data": "CODE4159"
+  },
+  {
+    "timestamp": "2025-07-27T12:06:45Z",
+    "scanner_id": "ZB44670",
+    "event_type": "no-decode",
+    "barcode_data": "CODE8007"
+  },
+  {
+    "timestamp": "2025-07-27T12:06:50Z",
+    "scanner_id": "ZB25085",
+    "event_type": "no-decode",
+    "barcode_data": "CODE3158"
+  },
+  {
+    "timestamp": "2025-07-27T12:06:55Z",
+    "scanner_id": "ZB81811",
+    "event_type": "no-decode",
+    "barcode_data": "CODE2684"
+  },
+  {
+    "timestamp": "2025-07-27T12:07:00Z",
+    "scanner_id": "ZB46721",
+    "event_type": "decode",
+    "barcode_data": "CODE7621"
+  },
+  {
+    "timestamp": "2025-07-27T12:07:05Z",
+    "scanner_id": "ZB48691",
+    "event_type": "no-decode",
+    "barcode_data": "CODE2830"
+  },
+  {
+    "timestamp": "2025-07-27T12:07:10Z",
+    "scanner_id": "ZB48188",
+    "event_type": "decode",
+    "barcode_data": "CODE9875"
+  },
+  {
+    "timestamp": "2025-07-27T12:07:15Z",
+    "scanner_id": "ZB72731",
+    "event_type": "no-decode",
+    "barcode_data": "CODE7265"
+  },
+  {
+    "timestamp": "2025-07-27T12:07:20Z",
+    "scanner_id": "ZB27227",
+    "event_type": "no-decode",
+    "barcode_data": "CODE3963"
+  },
+  {
+    "timestamp": "2025-07-27T12:07:25Z",
+    "scanner_id": "ZB90569",
+    "event_type": "no-decode",
+    "barcode_data": "CODE5440"
+  },
+  {
+    "timestamp": "2025-07-27T12:07:30Z",
+    "scanner_id": "ZB77958",
+    "event_type": "no-decode",
+    "barcode_data": "CODE3264"
+  },
+  {
+    "timestamp": "2025-07-27T12:07:35Z",
+    "scanner_id": "ZB73497",
+    "event_type": "no-decode",
+    "barcode_data": "CODE2575"
+  },
+  {
+    "timestamp": "2025-07-27T12:07:40Z",
+    "scanner_id": "ZB74978",
+    "event_type": "no-decode",
+    "barcode_data": "CODE8635"
+  },
+  {
+    "timestamp": "2025-07-27T12:07:45Z",
+    "scanner_id": "ZB54585",
+    "event_type": "decode",
+    "barcode_data": "CODE8908"
+  },
+  {
+    "timestamp": "2025-07-27T12:07:50Z",
+    "scanner_id": "ZB94445",
+    "event_type": "no-decode",
+    "barcode_data": "CODE6474"
+  },
+  {
+    "timestamp": "2025-07-27T12:07:55Z",
+    "scanner_id": "ZB52576",
+    "event_type": "decode",
+    "barcode_data": "CODE2834"
+  },
+  {
+    "timestamp": "2025-07-27T12:08:00Z",
+    "scanner_id": "ZB78535",
+    "event_type": "decode",
+    "barcode_data": "CODE6278"
+  },
+  {
+    "timestamp": "2025-07-27T12:08:05Z",
+    "scanner_id": "ZB87030",
+    "event_type": "no-decode",
+    "barcode_data": "CODE1697"
+  },
+  {
+    "timestamp": "2025-07-27T12:08:10Z",
+    "scanner_id": "ZB43448",
+    "event_type": "decode",
+    "barcode_data": "CODE7645"
+  },
+  {
+    "timestamp": "2025-07-27T12:08:15Z",
+    "scanner_id": "ZB53892",
+    "event_type": "decode",
+    "barcode_data": "CODE8370"
+  }
+]
