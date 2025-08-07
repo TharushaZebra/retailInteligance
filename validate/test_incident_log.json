@@ -1,0 +1,7 @@
+[
+  {"timestamp": "2025-08-04T10:00:00Z", "scanner_id": "SCO1", "incident": "unscanned_item", "product": "apple"},
+  {"timestamp": "2025-08-04T10:00:01Z", "scanner_id": "SCO1", "incident": "scanner_avoidance", "product": "apple"},
+  {"timestamp": "2025-08-04T10:00:02Z", "scanner_id": "SCO2", "incident": "queue_buildup", "queue_length": 9},
+  {"timestamp": "2025-08-04T10:00:03Z", "scanner_id": "SCO2", "incident": "product_swap", "barcode": "CODE1", "actual": "orange"},
+  {"timestamp": "2025-08-04T10:00:09Z", "scanner_id": "SCO2", "incident": "scanner_failure"}
+]

@@ -1,0 +1,12 @@
+[
+  {"timestamp": "2025-08-04T10:00:00Z", "event_type": "rfid_read", "scanner_id": "SCO1", "product_id": "apple"},
+  {"timestamp": "2025-08-04T10:00:01Z", "event_type": "camera_image", "scanner_id": "SCO1", "product_id": "apple"},
+  {"timestamp": "2025-08-04T10:00:02Z", "event_type": "queue_status", "scanner_id": "SCO2", "queue_length": 9},
+  {"timestamp": "2025-08-04T10:00:03Z", "event_type": "barcode_scan", "scanner_id": "SCO2", "product_id": "banana", "barcode_data": "CODE1", "actual": "orange"},
+  {"timestamp": "2025-08-04T10:00:04Z", "event_type": "queue_status", "scanner_id": "SCO3", "queue_length": 2},
+  {"timestamp": "2025-08-04T10:00:05Z", "event_type": "rfid_read", "scanner_id": "SCO3", "product_id": "milk"},
+  {"timestamp": "2025-08-04T10:00:06Z", "event_type": "camera_image", "scanner_id": "SCO3", "product_id": "milk"},
+  {"timestamp": "2025-08-04T10:00:07Z", "event_type": "queue_status", "scanner_id": "SCO1", "queue_length": 0},
+  {"timestamp": "2025-08-04T10:00:08Z", "event_type": "barcode_scan", "scanner_id": "SCO1", "product_id": "apple", "barcode_data": "CODE2", "actual": "apple"},
+  {"timestamp": "2025-08-04T10:00:09Z", "event_type": "queue_status", "scanner_id": "SCO2", "queue_length": 10, "equipment_status": "failure"}
+]

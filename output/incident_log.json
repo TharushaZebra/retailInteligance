@@ -1,0 +1,162 @@
+[
+  {
+    "timestamp": "2025-08-04T09:06:59Z",
+    "scanner_id": "SCO3",
+    "incident": "queue_buildup",
+    "queue_length": 9
+  },
+  {
+    "timestamp": "2025-08-04T09:46:11Z",
+    "scanner_id": "SCO1",
+    "incident": "queue_buildup",
+    "queue_length": 9
+  },
+  {
+    "timestamp": "2025-08-04T09:50:33Z",
+    "scanner_id": "SCO1",
+    "incident": "scanner_failure"
+  },
+  {
+    "timestamp": "2025-08-04T09:51:00Z",
+    "scanner_id": "SCO1",
+    "incident": "scanner_failure"
+  },
+  {
+    "timestamp": "2025-08-04T09:01:42Z",
+    "scanner_id": "SCO3",
+    "incident": "scanner_avoidance",
+    "product": "onion"
+  },
+  {
+    "timestamp": "2025-08-04T09:01:42Z",
+    "scanner_id": "SCO3",
+    "incident": "product_swap",
+    "barcode": "fish",
+    "actual": "onion"
+  },
+  {
+    "timestamp": "2025-08-04T09:07:36Z",
+    "scanner_id": "SCO1",
+    "incident": "scanner_avoidance",
+    "product": "snack"
+  },
+  {
+    "timestamp": "2025-08-04T09:07:36Z",
+    "scanner_id": "SCO1",
+    "incident": "product_swap",
+    "barcode": "wine",
+    "actual": "snack"
+  },
+  {
+    "timestamp": "2025-08-04T09:09:31Z",
+    "scanner_id": "SCO3",
+    "incident": "scanner_avoidance",
+    "product": "cereal"
+  },
+  {
+    "timestamp": "2025-08-04T09:15:14Z",
+    "scanner_id": "SCO3",
+    "incident": "scanner_avoidance",
+    "product": "milk"
+  },
+  {
+    "timestamp": "2025-08-04T09:15:14Z",
+    "scanner_id": "SCO3",
+    "incident": "product_swap",
+    "barcode": "tomato",
+    "actual": "milk"
+  },
+  {
+    "timestamp": "2025-08-04T09:16:43Z",
+    "scanner_id": "SCO2",
+    "incident": "scanner_avoidance",
+    "product": "chocolate_bar"
+  },
+  {
+    "timestamp": "2025-08-04T09:16:43Z",
+    "scanner_id": "SCO2",
+    "incident": "product_swap",
+    "barcode": "lettuce",
+    "actual": "chocolate_bar"
+  },
+  {
+    "timestamp": "2025-08-04T09:18:46Z",
+    "scanner_id": "SCO2",
+    "incident": "scanner_avoidance",
+    "product": "eggs"
+  },
+  {
+    "timestamp": "2025-08-04T09:18:46Z",
+    "scanner_id": "SCO2",
+    "incident": "product_swap",
+    "barcode": "snack",
+    "actual": "eggs"
+  },
+  {
+    "timestamp": "2025-08-04T09:18:46Z",
+    "scanner_id": "SCO2",
+    "incident": "product_swap",
+    "barcode": "beef",
+    "actual": "eggs"
+  },
+  {
+    "timestamp": "2025-08-04T09:18:46Z",
+    "scanner_id": "SCO2",
+    "incident": "product_swap",
+    "barcode": "beef",
+    "actual": "snack"
+  },
+  {
+    "timestamp": "2025-08-04T09:43:39Z",
+    "scanner_id": "SCO2",
+    "incident": "scanner_avoidance",
+    "product": "beef"
+  },
+  {
+    "timestamp": "2025-08-04T09:43:39Z",
+    "scanner_id": "SCO2",
+    "incident": "product_swap",
+    "barcode": "orange",
+    "actual": "beef"
+  },
+  {
+    "timestamp": "2025-08-04T09:50:16Z",
+    "scanner_id": "SCO3",
+    "incident": "scanner_avoidance",
+    "product": "soda"
+  },
+  {
+    "timestamp": "2025-08-04T09:50:16Z",
+    "scanner_id": "SCO3",
+    "incident": "product_swap",
+    "barcode": "watermelon",
+    "actual": "soda"
+  },
+  {
+    "timestamp": "2025-08-04T09:50:37Z",
+    "scanner_id": "SCO3",
+    "incident": "scanner_avoidance",
+    "product": "eggs"
+  },
+  {
+    "timestamp": "2025-08-04T09:50:37Z",
+    "scanner_id": "SCO3",
+    "incident": "product_swap",
+    "barcode": "soda",
+    "actual": "eggs"
+  },
+  {
+    "timestamp": "2025-08-04T09:50:37Z",
+    "scanner_id": "SCO3",
+    "incident": "product_swap",
+    "barcode": "cereal",
+    "actual": "eggs"
+  },
+  {
+    "timestamp": "2025-08-04T09:50:37Z",
+    "scanner_id": "SCO3",
+    "incident": "product_swap",
+    "barcode": "cereal",
+    "actual": "soda"
+  }
+]
